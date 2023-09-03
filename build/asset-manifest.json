@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a804156e.css",
+    "main.js": "/static/js/main.26838a42.js",
+    "static/media/boost-stairs-1.png": "/static/media/boost-stairs-1.b0b4ef8947ad0243d3cd.png",
+    "static/media/boost-stairs-2.png": "/static/media/boost-stairs-2.c73c7a8d81f6382b6642.png",
+    "static/media/mobile.png": "/static/media/mobile.e4ec93fa318b801eed5d.png",
+    "static/media/bg.png": "/static/media/bg.b9aadbd831beea91c72e.png",
+    "static/media/boost-phone.png": "/static/media/boost-phone.1ec744cca262f95716f9.png",
+    "static/media/r-1.png": "/static/media/r-1.d178bad254d146d97f45.png",
+    "static/media/investing-graph-1.png": "/static/media/investing-graph-1.211ad2f5de9244412efb.png",
+    "static/media/phone.png": "/static/media/phone.9ede71e19ea1d1abccac.png",
+    "static/media/bang-bg.png": "/static/media/bang-bg.fbc94fb2280ec88b3ee2.png",
+    "static/media/pillers.png": "/static/media/pillers.1b5e259e5de8194ca213.png",
+    "static/media/investing-graph-3.png": "/static/media/investing-graph-3.96af5202f63efc8149a0.png",
+    "static/media/stairs.png": "/static/media/stairs.5d80f3d8b5a9da771b4a.png",
+    "static/media/cubeStairs.png": "/static/media/cubeStairs.6316fda7fb31757a8edc.png",
+    "static/media/hole.png": "/static/media/hole.4db361edb9624f577860.png",
+    "static/media/investing-bitcoin.png": "/static/media/investing-bitcoin.ae836d769e725ae8e61d.png",
+    "static/media/investing-stocks.png": "/static/media/investing-stocks.f828d10acf12013bf789.png",
+    "static/media/banking-track-2.png": "/static/media/banking-track-2.84039d391a33076bcddb.png",
+    "static/media/banking-ramp-2.png": "/static/media/banking-ramp-2.83b023e21a9771849337.png",
+    "static/media/banking-ramp-1.png": "/static/media/banking-ramp-1.7d72c969f59d6f0152bb.png",
+    "static/media/banking-cubes.png": "/static/media/banking-cubes.130e89f0cd9f049d0ab1.png",
+    "static/media/Group.png": "/static/media/Group.8db1a933055bfb128d7a.png",
+    "static/media/banking-hole-1.png": "/static/media/banking-hole-1.78feab66c63cbd16606c.png",
+    "static/media/banking-stairs-1.png": "/static/media/banking-stairs-1.78e8e9eb17b518d061d4.png",
+    "static/media/investing-graph-2.png": "/static/media/investing-graph-2.39eeaa5678e30bdada05.png",
+    "static/media/banking-stairs-2.png": "/static/media/banking-stairs-2.d2c555db1769cc34da12.png",
+    "static/media/r2.png": "/static/media/r2.138c8d666fbdf2016ffd.png",
+    "index.html": "/index.html",
+    "main.a804156e.css.map": "/static/css/main.a804156e.css.map",
+    "main.26838a42.js.map": "/static/js/main.26838a42.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a804156e.css",
+    "static/js/main.26838a42.js"
+  ]
+}

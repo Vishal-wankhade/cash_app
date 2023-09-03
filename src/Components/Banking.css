@@ -1,0 +1,112 @@
+.banking-wrap{
+    height: 700px;
+    width:100%;
+    background-color: #00D54B;
+    position: relative;
+    overflow: hidden;
+}
+.bank-center{
+    position: absolute;
+    height: 400px;
+    width: 350px;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    /* border: 1px solid white; */
+    background-image: url("./images/bang-bg.png");
+}
+.hole{
+    position: absolute;
+    height: 200px;
+    width: 350px;
+    top:0;
+    left: 0;
+}
+.col{
+    position: absolute;
+    height: 260px;
+    width: 220px;
+    top:120px;
+    left: 10px;
+}
+.bank-info{
+    position: absolute;
+    height: 210px;
+  width: 306px;
+  top: 233px;
+  left: 310px;
+    /* border: 1px solid white; */
+}
+.bank-info h2{
+    color: #fff;
+    font-size: 40px;
+    margin: 10px 0px 0px 0px;
+}
+.bank-info p{
+    padding: 0;
+    padding-top: 20px;
+}
+.stair2{
+    position: absolute;
+    height: 170px;
+    width: 80px;
+    bottom:80px;
+    left: -10px;
+}
+.ramp2{
+    position: absolute;
+    height: 150px;
+    width: 200px;
+    bottom:30px;
+    left: 100px;
+}
+.tube{
+    position: absolute;
+    height: 130px;
+    width: 150px;
+    bottom:-10px;
+    left: 550px;
+}
+.hole2{
+    position: absolute;
+    /* height: 200px;
+    width: 350px; */
+    bottom:0;
+    right: 350px;
+}
+.track2{
+    position: absolute;
+    /* height: 200px;
+    width: 350px; */
+top:20px;
+    right: 220px;
+}
+.ramp{
+    position: absolute;
+    /* height: 200px;
+    width: 350px; */
+top:250px;
+    right: 320px;
+}
+.str{
+    position: absolute;
+    /* height: 200px;
+    width: 350px; */
+    bottom:200px;
+    right: 50px;
+}
+.monster{
+    position: absolute;
+    /* height: 200px;
+    width: 350px; */
+    bottom:30px;
+    right: 50px;
+}
+.cube{
+    position: absolute;
+    /* height: 200px;
+    width: 350px; */
+    bottom:100px;
+    right: 220px;
+}
+

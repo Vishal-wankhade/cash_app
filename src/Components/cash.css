@@ -1,0 +1,75 @@
+.cash{
+    height: 700px;
+    width:100%;
+    background-color: black;
+    position: relative;
+}
+.boost{
+    position: absolute;
+    bottom: 0px;
+    left:0px;
+}
+.boost2{
+    position: absolute;
+    bottom: 0px;
+    right:0px;
+}
+.cash-center{
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    z-index: 22;
+}
+
+.c-info{
+    position: absolute;
+    top:140px;
+    left: 230px;
+    height: 300px;
+    width: 350px;
+    /* border:1px solid white; */
+}
+.c-info{
+    height: 200px;
+    
+}
+.c-info h2{
+    padding: 0px 20px;
+    font-size: 50px;
+    color: #00D54B;
+    font-weight: 700;
+   
+}
+.c-info p{
+    text-align: justify;
+    padding: 5px 25px;
+    font-size: 16px;
+    font-weight: 400;
+    color:white
+}
+.card{
+    position: absolute;
+    top: 160px;
+    right:300px;
+}
+.shoe{
+    position: absolute;
+    bottom: 250px;
+    right:20px;
+}
+.burger{
+    position: absolute;
+    top: 340px;
+    right:440px; 
+}
+.hand{
+    position: absolute;
+    top: 40px;
+    right:200px; 
+}
+.coffee{
+    position: absolute;
+    bottom: 120px;
+    right:320px; 
+}

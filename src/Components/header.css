@@ -1,0 +1,45 @@
+header{
+    height: 80px;
+    width: 100%;
+    /* border: 1px solid white; */
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+}
+.dollar{
+    width: 80px;
+    /* border: 1px solid white; */
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.link-wrap{
+    width: 950px;
+    /* border: 1px solid white; */
+    height: 100%;
+}
+.link-wrap ul{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+    list-style: none;
+    margin: auto;
+    padding: 0px;
+    font-family: Agrandir;
+    text-transform: uppercase;
+    font-size: 12px;
+    font-family: 'Scada', sans-serif;
+}
+.eye{
+    width: 80px;
+    /* border: 1px solid white; */
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

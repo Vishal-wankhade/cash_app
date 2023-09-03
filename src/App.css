@@ -1,0 +1,12 @@
+.App{
+  height:750px;
+  width: 100vw;
+  /* border: 1px solid red; */
+  margin:auto;
+  background-color: black;
+  background-image:url("../public/images/bg.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Scada', sans-serif;
+}
